@@ -1,5 +1,21 @@
 #!/bin/bash
-
+clear
+sleep 2
+echo Buscando paquetes.
+sleep 1
+clear
+echo Buscando paquetes..
+sleep 1
+clear
+echo Buscando paquetes...
+sleep 3
+clear 
+echo Buscando paquetes.
+sleep 2
+clear
+echo ¡Paquetes encontrados!
+sleep 5
+clear
 # Función para instalar un paquete
 install_package() {
     package=$1
